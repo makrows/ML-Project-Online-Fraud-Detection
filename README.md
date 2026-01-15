@@ -14,6 +14,7 @@ This project focuses on building a robust Machine Learning pipeline to detect fr
 
 ### 📂 Dataset
 *   **Source:** Kaggle "Online Payments Fraud Detection" (`PS_20174392719_1491204439457_log.csv`)
+*   Link to Dataset: https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset?resource=download
 *   **Size:** ~6.3 million transactions.
 *   **Features:** `step`, `type`, `amount`, `oldbalance`, `newbalance`, etc.
 *   **Target:** `isFraud` (Binary).
