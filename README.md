@@ -70,4 +70,4 @@ We prioritized **Precision-Recall AUC (PR-AUC)** and **Recall** due to the class
     ```
 
 ---
-*Author: [Your Name]*
+*Authors: Maciej Głowacki, Igor Bąk*
